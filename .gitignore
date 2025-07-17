@@ -18,7 +18,6 @@
 *.env
 .env.*
 
-
 # Local configuration that shouldn't be shared
 *.local
 
