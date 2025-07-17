@@ -18,6 +18,13 @@
 *.env
 .env.*
 
+# Ignore the public/temp folder
+public/temp/
+
+# Ignore package-lock.json
+package-lock.json
+
+
 # Local configuration that shouldn't be shared
 *.local
 
